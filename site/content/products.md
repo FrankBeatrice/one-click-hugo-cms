@@ -5,10 +5,11 @@ page: /products.html
 image: /img/Sticky Fingrs Final.png
 heading: What we offer
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  Kaldi is the ultimate device for herb lovers and medical patients who want to
+  grind their cannabis with ease. We are supporters of the alternative medical
+  revolution origins and the farmers that grew it. We take  production, safety
+  and efficiency seriously. Our friction powered finger grinder is made out of a
+  100% medical grade silicone and we’re glad to pass that knowledge to anyone.
 intro:
   blurbs:
     - image: /img/illustrations/coffee.svg
