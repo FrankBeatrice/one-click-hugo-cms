@@ -1,8 +1,8 @@
 ---
-title: Our Coffee
+title: Our Story
 type: products
 page: /products.html
-image: /img/products/jumbotron.jpg
+image: /img/Sticky Fingrs Final.png
 heading: What we offer
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
@@ -99,5 +99,4 @@ pricing:
       plan: Custom
       price: '?'
 ---
-
 
